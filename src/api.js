@@ -2,7 +2,7 @@
 const params = {
     headers : {
         Accept: 'application/json',
-        "Content-Type": 'application'
+        "Content-Type": 'application/json'
     },
 };
 
